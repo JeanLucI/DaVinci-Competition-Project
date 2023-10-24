@@ -1,0 +1,2 @@
+FLASK_APP=UserDB
+FLASK_ENVIRONMENT=development
